@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A covenant to walk with God in an holy stedfastness to maintain the peace of our spirits with God in Christ. Solemnly entred into by certain persons resolving to live according to, and in the power of the life of Christ in them.</title>
+            <author>W. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92701</idno>
+            <idno type="STC">Wing S190</idno>
+            <idno type="STC">Thomason E1200_2</idno>
+            <idno type="STC">ESTC R2148</idno>
+            <idno type="EEBO-CITATION">99871432</idno>
+            <idno type="PROQUEST">99871432</idno>
+            <idno type="VID">169461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1200[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A covenant to walk with God in an holy stedfastness to maintain the peace of our spirits with God in Christ. Solemnly entred into by certain persons resolving to live according to, and in the power of the life of Christ in them.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>[12], 45, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Philemon Stephens,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: W.S.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conde,Louis, --  prince de, --  1530-1569 --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169461:1" rendition="simple:additions"/>
+            <p>A COVENANT To walk with GOD IN An holy ſtedfaſtneſs to maintain the peace of our Spirits with God in CHRIST.</p>
+            <p>
+               <hi>Solemnly entred into</hi>
+            </p>
+            <p>By certain Perſons reſol<g ref="char:EOLhyphen"/>ving to live according to, and in the power of the life of Chriſt in them.</p>
+            <p>
+               <add>8<hi rend="sup">ber</hi> 9<hi rend="sup">th</hi>
+               </add> LONDON: Printed by <hi>John Field</hi> for <hi>Philemon Stephens.</hi> 1646.</p>
+            <pb facs="tcp:169461:2" rendition="simple:additions"/>
+            <pb facs="tcp:169461:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169461:3"/>
+            <pb facs="tcp:169461:3"/>
+            <head>To my worthy FRIEND, M<hi rend="sup">rs</hi> 
+               <hi>A.D.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He oc<g ref="char:EOLhyphen"/>caſion of this ſolemn engaging our ſelvs in Covenant with our God, you well remember, &amp; the framing of this
+<pb facs="tcp:169461:4"/>Model (as you know) was at firſt for your ſtay in an holy ſtedfaſtnes in the way and life of Chriſt (to which you had in ſome meaſure already attained) and for my own recovery after a long and bitter declining, (God in mercy gave an anſwera<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:169461:4"/>ſucceſs.) Thoſe expreſsions of the way of life I have oft received from you, as the fruits of your own bleſſed Experience gave me the more confi<g ref="char:EOLhyphen"/>dence often to powr out my ſoul to you (a ſingular mercy to be intereſted in a faithful friend) in this <hi>I</hi> gained
+<pb facs="tcp:169461:5"/>both eaſe and re<g ref="char:EOLhyphen"/>feſhing to a trou<g ref="char:EOLhyphen"/>bled ſpirit (and ſome conſolation in ſo ſad a condition <hi>I</hi> am caſt into) in ſympathizing with me in theſe ſaving experimental paſ<g ref="char:EOLhyphen"/>ſages which <hi>I</hi> once enjoyed, though now (in bitter<g ref="char:EOLhyphen"/>neſſe) have no<g ref="char:EOLhyphen"/>thing to ſtay my
+<pb facs="tcp:169461:5"/>Spirit, but (it was once otherwiſe) I have now only one ſuit, to beſeech you to accept this your own, as it was firſt compoſed for our particulars, and to improve theſe ſweet and ſpiritual experiences of the love of Chriſt ſhed into your heart, &amp; God ſhall commu<g ref="char:EOLhyphen"/>nicate
+<pb facs="tcp:169461:6"/>unto you by his ſpirit daily, in your cloſe walking with him, to eſta<g ref="char:EOLhyphen"/>bliſh your ſpirit in aſſurance and im<g ref="char:EOLhyphen"/>mutable cleaving to him in all faithful ſtedfaſt<g ref="char:EOLhyphen"/>neſſe, according to this our Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p>This is the daily prayers of
+<pb facs="tcp:169461:6"/>him who will be ever found</p>
+            <closer>
+               <signed>Your faithful Friend And Servant, <hi>W. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:169461:7"/>
+            <pb n="1" facs="tcp:169461:7"/>
+            <head>A COVENANT made with GOD and our own Souls, and to be renewed daily, to maintain a conſtant peace in a Spiritual walking with our God.</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECT. 1.</hi> The occaſion &amp; ground of this Covenant.</head>
+               <p>VVEe ſeriouſly and in the ſight of God, obſer<g ref="char:EOLhyphen"/>ving that glorious
+<pb n="2" facs="tcp:169461:8"/>and bleſſed condi<g ref="char:EOLhyphen"/>tion we have been called into,<note place="margin">1 Theſſ. 1.5.</note> in the revelation of the Lord Jeſus Chriſt upon our Spirits in the power of the Goſpel, and therein ſeeing
+<list>
+                     <item>1.<note place="margin">Rom. 5.1, 2.</note> The ſingular and infinite love of God, in revealing to us effectually the great myſteries of Chriſt through the Spirit, and thereby ſpeaking peace to
+<pb n="3" facs="tcp:169461:8"/>our Spirits, through the promiſe in his Son.</item>
+                     <item>2.<note place="margin">Rom. 8.6</note> And thence evidential union &amp; communion with <hi>Chriſt</hi> reſulting. We have truly found beſtowed upon us</item>
+                  </list>
+               </p>
+               <p>A Spirit of life,<note place="margin">Gal. 5.25.</note>to live the life of Chriſt.</p>
+               <p>A myſterious mer<g ref="char:EOLhyphen"/>cy we muſt needs acknowledge,<note place="margin">Eph. 3.17, 18.</note> and beyond imaginati<g ref="char:EOLhyphen"/>on, much more
+<pb n="4" facs="tcp:169461:9"/>poſsibility of re<g ref="char:EOLhyphen"/>quital; eſpecially in as much as we have found from thence, by bleſſed &amp; happy experience commu<g ref="char:EOLhyphen"/>nicated freely unto us, that which may fit us in ſome pro<g ref="char:EOLhyphen"/>portion and com<g ref="char:EOLhyphen"/>fortable meaſure to enjoy communion with our God, as
+<list>
+                     <item>1.<note place="margin">2 Pet. 1.4</note> An holy frame of Spirit, anſwering to the holy nature of God in Chriſt in
+<pb n="5" facs="tcp:169461:9"/>ſome happy mea<g ref="char:EOLhyphen"/>ſure.</item>
+                     <item>2.<note place="margin">Rom. 5.5</note> Senſibleneſſe of infinite love in God to us through Chriſt in that re<g ref="char:EOLhyphen"/>ſpect.</item>
+                  </list>
+               </p>
+               <p>And from theſe two principles have had experience in our hearts of</p>
+               <p n="1">1.<note place="margin">2 Cor. 5.14.</note> An holy ten<g ref="char:EOLhyphen"/>dernes towards <hi>God</hi> in the Lord Jeſus Chriſt.</p>
+               <p>Spiritual joy in God,<note place="margin">1 Pet. 1.8</note> as our portion
+<pb n="6" facs="tcp:169461:10"/>now in Chriſt re<g ref="char:EOLhyphen"/>conciled to us.</p>
+               <p n="3">3.<note place="margin">1 Ioh. 4.8.</note> Love to, and ſincere delight in him.</p>
+               <p>All which wee have found have been accompanyed with three ſpecial &amp; prevailing fruits;
+<list>
+                     <item>1.<note place="margin">Col. 3.1.</note> The alienating of our Spirits from things here below, to favour, minde and taſte ſpirituals.</item>
+                     <item>2.<note place="margin">Rom. 7.15.</note> The diſappro<g ref="char:EOLhyphen"/>bation &amp; diſalow<g ref="char:EOLhyphen"/>ance
+<pb n="7" facs="tcp:169461:10"/>of luſt and ſin dwelling in us.</item>
+                     <item>3.<note place="margin">Rom. 8.10.</note> The ſubjuga<g ref="char:EOLhyphen"/>ting of the power and ſtrength of cor<g ref="char:EOLhyphen"/>ruption, that it raigned not, nor prevailed in our ſpi<g ref="char:EOLhyphen"/>rits nor wayes.</item>
+                  </list>
+               </p>
+               <p>From all which bleſſed works of <hi>Christ</hi> in us, through the ſtrength of this Spirit of life caſt into us by his inha<g ref="char:EOLhyphen"/>bitation in us fol<g ref="char:EOLhyphen"/>lowed</p>
+               <pb n="8" facs="tcp:169461:11"/>
+               <p> Power in ſome meaſure to walk ac<g ref="char:EOLhyphen"/>ceptably to God in peace.<note place="margin">Acts 9.31.</note>
+               </p>
+               <p>Fro<g ref="char:cmbAbbrStroke">̄</g> theſe grounds and principles (be<g ref="char:EOLhyphen"/>ſides the internal light of Faith, and the witneſs and ſeal of the Spirit) war<g ref="char:EOLhyphen"/>ranted by Scripture to be the lot and only portion of the Elect of God called to be Saints. We have concluded</p>
+               <p>We are now actu<g ref="char:EOLhyphen"/>ally
+<pb n="9" facs="tcp:169461:11"/>in the ſtate of grace, and partakers of the new Cove<g ref="char:EOLhyphen"/>nant in the Lord Jeſus.</p>
+               <p>Therefore ha<g ref="char:EOLhyphen"/>ving theſe eviden<g ref="char:EOLhyphen"/>tial grounds, that this is the true grace of Chriſt, wherein we now ſtand we cannot but finde our Spirits
+<list>
+                     <item>1.<note place="margin">Pſal. 63.5.</note> Very ſenſible of ſingular love in God towards us in Chriſt.</item>
+                     <pb n="10" facs="tcp:169461:12"/>
+                     <item> 2.<note place="margin">Pſa. 116.12, 13.</note> Widely enlar<g ref="char:EOLhyphen"/>ged anſwerably in love and thankful<g ref="char:EOLhyphen"/>neſſe to God again for ſo much good<g ref="char:EOLhyphen"/>neſſe.<note place="margin">Eph. 1.13.</note>
+                     </item>
+                  </list>
+               </p>
+               <p>Therefore know<g ref="char:EOLhyphen"/>ing our ſelves here<g ref="char:EOLhyphen"/>by ſealed up unto our full Redempti<g ref="char:EOLhyphen"/>on in the great day of Chriſt, and that the time of our abi<g ref="char:EOLhyphen"/>ding here is but ſhort. Conclude it our duty</p>
+               <p>That we live the
+<pb n="11" facs="tcp:169461:12"/>reſt of our pilgri<g ref="char:EOLhyphen"/>mage wholly unto God,<note place="margin">Rom. 6.4</note> in the power of that grace and ſpiritual life thus communicated to us from GOD in Chriſt.<note place="margin">Eph. 4.17</note>
+               </p>
+               <p>And foraſmuch as we carry ſtill about with us a body of Death (and live in the world, although we are not of the world) that hauls back unto deadneſſe and dulneſſe in the
+<pb n="12" facs="tcp:169461:13"/>way of Chriſt to the corruptions of our own natures, cauſing in us by woful experience to finde the bitterneſſe of our own folly in neglects, coolings, careleſneſſe and un<g ref="char:EOLhyphen"/>ſteddineſs of Spirit, often procuring ir<g ref="char:EOLhyphen"/>regularities and un<g ref="char:EOLhyphen"/>evenneſſe in our wayes, &amp; ſad events upon our Spirits. We finde our ſelves therefore bounden
+<pb n="13" facs="tcp:169461:13"/>in all Spiritual wiſ<g ref="char:EOLhyphen"/>dom to tye our ſelves up</p>
+               <p>To keep a ſtrict and cloſe watch o<g ref="char:EOLhyphen"/>ver our hearts and wayes.<note place="margin">1 Cor. 1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.14.</note>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. 2. <hi>The</hi> COVENANT <hi>in general.</hi>
+               </head>
+               <p>VVHereupon knowing the fickle and in<g ref="char:EOLhyphen"/>conſtant
+<pb n="14" facs="tcp:169461:14"/>temper of our own variable Spirits, which through our cor<g ref="char:EOLhyphen"/>rupt nature are ve<g ref="char:EOLhyphen"/>ry falſe to us, and unleſſe by ſtrong hand kept under, and with a ſteddy eye watched and ob<g ref="char:EOLhyphen"/>ſerved, grow perfi<g ref="char:EOLhyphen"/>dious and baſely treacherous, lead<g ref="char:EOLhyphen"/>ing us to Apoſtacy, to our own unreſt, and great diſhonor to our God.
+<pb n="15" facs="tcp:169461:14"/>
+               </p>
+               <p>We conceive it our duty to make a COVENANT with God and our Souls in this reſpect, and therefore do hereby in the ſight of our God and the Lord Jeſus Chriſt, and in the ſincerity of our own thoughts.</p>
+               <p>Enter into a So<g ref="char:EOLhyphen"/>lemn,<note place="margin">Neh. 9.38.</note>Peremptory and faithful Cove<g ref="char:EOLhyphen"/>nant with our God in Chriſt,<note place="margin">Iob 31.1.</note> 
+                  <note place="margin">Pſa. 11<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.106.</note> through his ſtrength promi<g ref="char:EOLhyphen"/>ſed
+<pb n="16" facs="tcp:169461:15"/>in the Covenant to live to God for ever hereafter, and to walk with him in all things.</p>
+               <p>And becauſe all our ſtrength herein to walk in commu<g ref="char:EOLhyphen"/>nion with him is derived from our Union and Fellow<g ref="char:EOLhyphen"/>ſhip with Chriſt our head, we there<g ref="char:EOLhyphen"/>fore reſolve as our duty</p>
+               <p>To maintain the ſtrength and ſence
+<pb n="17" facs="tcp:169461:15"/>of our union and communion with Chriſt, and the in<g ref="char:EOLhyphen"/>creaſe daily of it up<g ref="char:EOLhyphen"/>on us.</p>
+               <p>And therefore our reſolutions are in the ſight of our God, ſo far as we know our hearts to labor daily to finde</p>
+               <p>The power of Chriſt,<note place="margin">1 Pet. 5.10.</note> and the ſenſe of Spiritual life in us more and more,<note place="margin">Eph. 3.16, 17.</note>conveyed to us, ſtrengthned in us,
+<pb n="18" facs="tcp:169461:16"/>and working by us.</p>
+               <p>And becauſe all our ſtrength herein is derived from that principle of fulneſs in Chriſt, and this ſubordinately, by a knowing, believing in him, and cloſe compliance to him.</p>
+               <p>Our Covenant is extended to theſe particulars.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="19" facs="tcp:169461:16"/>
+               <head>
+                  <hi>SECT. 3.</hi> General Engagements as means to walk with <hi>GOD.</hi>
+               </head>
+               <p>FOraſmuch there<g ref="char:EOLhyphen"/>fore as our in<g ref="char:EOLhyphen"/>tention is our daily growing up in the power and life of Chriſt our Lord, our care ſhall be ex<g ref="char:EOLhyphen"/>erciſed in theſe par<g ref="char:EOLhyphen"/>ticulars:</p>
+               <p n="1">1. To ſee and ob<g ref="char:EOLhyphen"/>ſerve more clearly
+<pb n="20" facs="tcp:169461:17"/>daily in the Scri<g ref="char:EOLhyphen"/>pture,<note place="margin">Col. 3.16.</note> that infinite fulneſs that is in the Lord Jeſus Chriſt, and the intent of God in him, to com<g ref="char:EOLhyphen"/>municate the ſame to us according to the Covenant.</p>
+               <p n="2">2. Therefore to actuate our Faith in that Covenant, and the Promiſes we finde we have ob<g ref="char:EOLhyphen"/>tained intereſt in, and peculiarly in ſuch ſpecial Truths
+<pb n="21" facs="tcp:169461:17"/>as are revealed to that purpoſe, be<g ref="char:EOLhyphen"/>lieving we ſhall be poſſeſſors of the ſame.</p>
+               <p n="3">3. To obſerve what quickening we receive from any paſſage in the Word of Promiſe concerning Chriſt; and herein</p>
+               <p>To gain eſta<g ref="char:EOLhyphen"/>bliſhment of heart in <hi>Gods</hi> love through Chriſt to us.</p>
+               <p n="4">4. In all Divine
+<pb n="22" facs="tcp:169461:18"/>intercourſes 'twixt God and our Spi<g ref="char:EOLhyphen"/>rits, to proceed in every Ordinance ſo as
+<list>
+                     <item>1. We get neerer communion with God, and experience of the power of Chriſt in us.</item>
+                     <item>2. To ſtir up the grace of Chriſt in us, not reſting in the work onely done.</item>
+                  </list>
+               </p>
+               <p>And to this pur<g ref="char:EOLhyphen"/>poſe our diligent
+<pb n="23" facs="tcp:169461:18"/>care ſhall be uſed to improve the means of Salvation in their Spiritual po<g ref="char:EOLhyphen"/>wer.</p>
+               <p>Knowing well that all we did be<g ref="char:EOLhyphen"/>fore our calling was but polluted, and no way accept<g ref="char:EOLhyphen"/>able, but rather pro<g ref="char:EOLhyphen"/>voking.</p>
+               <p>So all done by us when we were in Chriſt, and not by the ſtrength of his Spirit in us, is no
+<pb n="24" facs="tcp:169461:19"/>wayes acceptable. For,
+<list>
+                     <item>1. In him alone is our ſtrength.</item>
+                     <item>2.<note place="margin">Mat. 3. ult.</note> In him alone are we acceptable.</item>
+                  </list>
+               </p>
+               <p n="5">5. To obſerve di<g ref="char:EOLhyphen"/>ligently how every promiſe is made good, and accom<g ref="char:EOLhyphen"/>pliſhed upon us, e<g ref="char:EOLhyphen"/>ſpecially if we begd it in prayer; and thence to ſee
+<list>
+                     <item>1. Gods faithful<g ref="char:EOLhyphen"/>neſſe, in making good his promiſe,
+<pb n="25" facs="tcp:169461:19"/>no ſmall refreſhing to our Spirit, and Eſtabliſhment to our Faith, when we ſenſibly ſet to our Seal that God is true, not only in the thing promiſed,<note place="margin">Ioh. 3.33</note>but a Spiritual rel<g ref="char:EOLhyphen"/>liſh of mercy in the ſame.</item>
+                     <item>2. To reflect up<g ref="char:EOLhyphen"/>on our own Spirits in the poſſeſsion of the ſame, and love in Chriſt in its communication.</item>
+                  </list>
+               </p>
+               <p n="6">
+                  <pb n="26" facs="tcp:169461:20"/> 6. To obſerve every glance of <hi>Gods</hi> love in Chriſt caſt into our Spirits, and thence
+<list>
+                     <item>1. To gather up a Catalogue of ex<g ref="char:EOLhyphen"/>periments of Gods love in Chriſt.</item>
+                     <item>2. To take a ſtrict obſervation of the graces of Chriſt dwelling in us:
+<list>
+                           <item>1. How they pro<g ref="char:EOLhyphen"/>ceed from Chriſt.</item>
+                           <item>2. How thence they give aſſurance
+<pb n="27" facs="tcp:169461:20"/>of Gods love in Chriſt.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>Theſe things ob<g ref="char:EOLhyphen"/>ſerved diligently by us in the conſtant courſe of our ways, our care ſhall be ex<g ref="char:EOLhyphen"/>tended
+<list>
+                     <item>1. To bee daily more Spiritual in every holy duty to God:</item>
+                     <item>2. To finde our Spirits more uni<g ref="char:EOLhyphen"/>verſally determined unto Chriſt.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <pb n="28" facs="tcp:169461:21"/>
+               <head>
+                  <hi>SECT. 4.</hi> Special daily walking with <hi>GOD.</hi>
+               </head>
+               <div n="1" type="subsection">
+                  <head>§. 1.</head>
+                  <p>ANd foraſmuch as our daily walking cloſe with GOD is a ſpecial means to maintain a conſtant peace in our hearts in a ſweet and Spiritual fel<g ref="char:EOLhyphen"/>lowſhip with our God, ſhining out upon us in the face
+<pb n="28" facs="tcp:169461:21"/>of Chriſt.</p>
+                  <p>Our Covenant with God ſhall be thus daily
+<list>
+                        <item>1.<note place="margin">Heb. 12.15.</note> To keep a con<g ref="char:EOLhyphen"/>ſtant watch againſt every root of bit<g ref="char:EOLhyphen"/>terneſſe or luſt that may creep into our hearts, or be nou<g ref="char:EOLhyphen"/>riſhed, that may ſad the Spirit, or damp that vigorous heat of the life of Chriſt, that may diſturb that peace God hath brought our Spirits unto.</item>
+                        <pb n="30" facs="tcp:169461:22"/>
+                        <item> 2.<note place="margin">Pſa. 51.5 Rom. 7.24.</note> To keep a ſen<g ref="char:EOLhyphen"/>ſible tenderneſſe of our corrupt nature, and to bewail it before God, to be humbled that we carry about with us ſuch a body of death, yet ſo, as that we ſee
+<list>
+                              <item>1.<note place="margin">Mal. 4.2. Zac. 14.1.</note> Healing here<g ref="char:EOLhyphen"/>of in Chriſt.</item>
+                              <item>2. That we quicke<g ref="char:cmbAbbrStroke">̄</g> our faith and love to the Lord Jeſus Chriſt, who hath delivered us</item>
+                           </list>
+                        </item>
+                        <pb n="31" facs="tcp:169461:22"/>
+                        <item> 3.<note place="margin">2 Cor. 7.9, 10. Rev. 2.5.</note> To renew our repentance daily for ſins and failings, begging for aſſu<g ref="char:EOLhyphen"/>rance of pardon in the Lord Chriſt.</item>
+                        <item>4.<note place="margin">Acts 2.38, 39.</note> To believe the pardon of our ſins when ever we beg it, and that in full aſſurance, waiting with a vigorous &amp; longing expectati<g ref="char:EOLhyphen"/>on of ſoul, until God ſhine out in peace, ſealing a par<g ref="char:EOLhyphen"/>don by the Spirit.</item>
+                        <pb n="32" facs="tcp:169461:23"/>
+                        <item> 5.<note place="margin">1 Cor. 13 16.</note> To watch a<g ref="char:EOLhyphen"/>gainſt every tem<g ref="char:EOLhyphen"/>ptation, knowing we are accompanied with ſnares, ſo to ſhun all appearance of evil.</item>
+                        <item>6.<note place="margin">1 Theſſ. 5, 6.</note> To obſerve the falſneſs &amp; treachery of our hearts,
+<list>
+                              <item>1. Suggeſting to us the firmneſſe of our ſtanding, when we do not know our own hearts</item>
+                              <item>2. Engaging us in temptation that
+<pb n="33" facs="tcp:169461:23"/>they may enſnare us.</item>
+                           </list>
+                        </item>
+                        <item>7. To reſolve and binde our ſelves up, to prevent occaſion of ſin that may ſteal upon us.</item>
+                        <item>8. That we labor daily to redeem our time,<note place="margin">Col. 4.5.</note> and keep an accompt how we ſpend every day.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="2" type="subsection">
+                  <head>§. 2.</head>
+                  <p>AND therefore we covenant our daily care ſhall be to ſpend the day
+<pb n="34" facs="tcp:169461:24"/>in theſe particulars, in a
+<list>
+                        <item>1. Conſtant courſe of prayer, reading, meditation in the power of Chriſt, with expectation of a bleſsing, and la<g ref="char:EOLhyphen"/>boring for commu<g ref="char:EOLhyphen"/>nion with <hi>Chriſt</hi> therein.</item>
+                        <item>2. Diligence and conſtancy in our lawful callings.</item>
+                     </list>
+                  </p>
+                  <list>
+                     <item>1. With heavenly mindes, and in obe<g ref="char:EOLhyphen"/>dience to <hi>Chriſt.</hi>
+                     </item>
+                     <pb n="35" facs="tcp:169461:24"/>
+                     <item> 2. Waiting by faith upon God, for a bleſsing upon our ſubſiſtency.</item>
+                     <item>3. Improving e<g ref="char:EOLhyphen"/>very opportunity of doing good to others, eſpecially in Spirituall things, miniſtring grace to the hearers.</item>
+                     <item>4. Holding a con<g ref="char:EOLhyphen"/>ſtant endeared and loving correſpon<g ref="char:EOLhyphen"/>dence with the Saints,<note place="margin">Heb. 10.24, 25.</note> and commu<g ref="char:EOLhyphen"/>nicating with expe<g ref="char:EOLhyphen"/>rimental
+<pb n="36" facs="tcp:169461:25"/>chriſtians in their experiences of <hi>Chriſt</hi> working and dwelling in them.</item>
+                     <item>5. Every morn<g ref="char:EOLhyphen"/>ing to work our hearts to an holy frame and ſenſible activeneſs towards God, that we may taſte of it all the day after.</item>
+                     <item>6. Above all e<g ref="char:EOLhyphen"/>very morning to labor our hearts to a ſenſibleneſſe of
+<pb n="37" facs="tcp:169461:25"/>Gods love to us in Chriſt, and an en<g ref="char:EOLhyphen"/>flamed love to him again.</item>
+                     <item>7.<note place="margin">Hab. 2.4. Heb. 10.37.</note> To live that glo<g ref="char:EOLhyphen"/>rious life of faith in an holy depen<g ref="char:EOLhyphen"/>dance upon him in all conditions.</item>
+                     <item>8. Every night to review the whole day, with obſerva<g ref="char:EOLhyphen"/>tion of
+<list>
+                           <item>1. Our own wants and ſins, and to be humbled for them.</item>
+                           <item>2. Gods care and
+<pb n="38" facs="tcp:169461:26"/>proviſion for and of us, and to be en<g ref="char:EOLhyphen"/>larged in a loving and tender thank<g ref="char:EOLhyphen"/>fulneſſe to him.</item>
+                        </list>
+                     </item>
+                     <item>9. In all things to maintain a ſen<g ref="char:EOLhyphen"/>ſible communion betwixt God and our Spirits.</item>
+                  </list>
+                  <p>This is the Co<g ref="char:EOLhyphen"/>venant of our con<g ref="char:EOLhyphen"/>ſtant daily walking with God. Yet in all we make this</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <pb n="39" facs="tcp:169461:26"/>
+               <head>Concluſion.</head>
+               <p n="1">1. THis Cove<g ref="char:EOLhyphen"/>nant to be enlarged daily, as our experience ſhall adminiſter occaſio<g ref="char:cmbAbbrStroke">̄</g>, and the manifold intercourſes betwixt God and our own ſouls preſent them<g ref="char:EOLhyphen"/>ſelves to us.</p>
+               <p n="2">2. Every Saturday at night, we con<g ref="char:EOLhyphen"/>ceive it our duty, as very convenient,</p>
+               <p n="1">
+                  <pb n="40" facs="tcp:169461:27"/> 1. To examine this Covenant with our hearts, to obſerve our proceedings: Herein how
+<list>
+                     <item>1. Our reſolutions are more unreſer<g ref="char:EOLhyphen"/>ved.</item>
+                     <item>2. Our Spirits more thoroughly brought over to Chriſt.</item>
+                     <item>3. And therein to be
+<list>
+                           <item>1. Humbled for decayes.</item>
+                           <item>2. Thankful for
+<pb n="41" facs="tcp:169461:27"/>improvement.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="2">2. To renew the Covenant with <hi>God</hi> with more deep, ſo<g ref="char:EOLhyphen"/>lemn and perem<g ref="char:EOLhyphen"/>ptory Vows, ob<g ref="char:EOLhyphen"/>ſerving the great peace we gain daily herein.</p>
+               <p>Wherein we con<g ref="char:EOLhyphen"/>ceive it our duty, to be very obſervant of two things which we ſhall take as cautions.</p>
+               <div type="part">
+                  <pb n="42" facs="tcp:169461:28"/>
+                  <head>Cautions.</head>
+                  <p n="1">1. TO look for more oppo<g ref="char:EOLhyphen"/>ſition &amp; wayward diſturbances in our hearts then wee founds before we ſet upon this courſe to hinder us therein.</p>
+                  <p>Yet herein, not<g ref="char:EOLhyphen"/>withſtanding op<g ref="char:EOLhyphen"/>poſition, we reſolve
+<list>
+                        <item>1. Not to be diſ<g ref="char:EOLhyphen"/>couraged.</item>
+                        <item>2. But to ſeek
+<pb n="43" facs="tcp:169461:28"/>ſtrength and ſuffi<g ref="char:EOLhyphen"/>ciency in Chriſt.</item>
+                     </list>
+                  </p>
+                  <p n="2">2. To be very tender, leſt conſtan<g ref="char:EOLhyphen"/>cy herein make us cuſtomary and for<g ref="char:EOLhyphen"/>mal: So our care ſhall bee, ever to maintain our hearts active and warm in all things.</p>
+                  <p>
+                     <hi>This Covenant in the preſence and ſight of our God, for our steddy and conſtant walking with him, we
+<pb n="44" facs="tcp:169461:29"/>make, write, and ſeal to it.</hi>
+                  </p>
+               </div>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb n="45" facs="tcp:169461:29"/>
+            <opener>
+               <dateline>
+                  <date>Ian. 5. 1646.</date>
+               </dateline>
+            </opener>
+            <p>Jmprimatur</p>
+            <closer>
+               <signed>JOHN DOWNAMI.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
